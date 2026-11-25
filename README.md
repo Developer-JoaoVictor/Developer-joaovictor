@@ -32,15 +32,9 @@
 
 ---
 
-## 🧰 Projetos em destaque
-
-> Em breve estarei publicando projetos completos aqui no GitHub. Acompanhe meu progresso!
-
----
-
 ## 📫 Entre em contato
 
-- 💼 LinkedIn: [www.linkedin.com/in/dev-joaovictor](https://www.linkedin.com/in/dev-joaovictor)
+- 💼 LinkedIn: [www.linkedin.com/in/dev-joaovictor](https://www.linkedin.com/in/joao-oliveira-ramos)
 - 📧 E-mail: joaoliveira.contato@hotmail.com
 
 ---
